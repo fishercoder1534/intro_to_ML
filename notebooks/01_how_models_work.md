@@ -1,4 +1,4 @@
-![](..../../assets/images/sample_decision_tree.png)
+![Sample Decision Tree](../assets/images/sample_decision_tree.png)
 
 
 It divides houses into only two categories. The predicted price for any house under consideration is the historical average price of houses in the same category.
